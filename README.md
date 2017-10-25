@@ -9,4 +9,12 @@ Projects:
 6. [Messenger Bot Reddit](https://github.com/ketakee/Reddit-Messenger-Bot)
 7. [Messenger Bot NLP (Chatfuel)](https://www.facebook.com/nlpbot/)
 
-
+[Toy Projects:](https://github.com/ketakee/Toy-Projects)
+1. Pomodoro timer
+2. Speech Male/Female
+3. Tic Tac Toe
+4. British Slang Generator
+5. Morse Code Generator
+6. Rock Paper Scissor
+7. Tracking a ball (Computer Vision)
+8. Detecting Faces form a photo
