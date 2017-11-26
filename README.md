@@ -18,3 +18,9 @@ Projects:
 6. Rock Paper Scissor
 7. Tracking a ball (Computer Vision)
 8. Detecting Faces form a photo
+
+Papers:
+
+1.Estimation of Lexical Complexity Using Language Semantics. (IJCA) (http://www.ijcaonline.org/archives/volume176/number4/28541-2017915572)
+2.Chatbots: An overview: Types, Architecture, Tools and Future Possibilities (IJSRD)(www.ijsrd.com/articles/IJSRDV5I70501.pdf)
+3. Query-Based Summarization Methods for  Conversational Agents: An Overview (IJARCS) (http://ijarcs.info/index.php/Ijarcs/article/view/4788)
