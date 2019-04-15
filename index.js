@@ -8,17 +8,12 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Then the swineherd brought them platters of cold meat, the remains from what they had eaten the day before, and he filled the bread baskets with bread as fast as he could.',
   'example2':
-      'Scarcely had we proceeded two days on the sea, when about sunrise a
-  great many Whales and other monsters of the sea, appeared. ',
+      'Scarcely had we proceeded two days on the sea, when about sunrise a great many Whales and other monsters of the sea, appeared. ',
   'example3':
-      'All these things, and a thousand like them, came to pass in and close
-upon the dear old year one thousand seven hundred and seventy-five.',
-     'example4':
-      'He was still hurriedly thinking all this through, unable to decide
-to get out of the bed, when the clock struck quarter to seven.'
-};
+      'All these things, and a thousand like them, came to pass in and close upon the dear old year one thousand seven hundred and seventy-five.',
+     'example4':'But Elizabeth had now recollected herself, and making a strong effort for it, was able to assure with tolerable firmness that the prospect of their relationship was highly grateful to her, and that she wished her all imaginable happiness.};
 
 function status(statusText) {
   console.log(statusText);
