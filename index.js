@@ -10,11 +10,14 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Scarcely had we proceeded two days on the sea, when about sunrise a  great many Whales and other monsters of the sea, appeared. ',
+      'Scarcely had we proceeded two days on the sea, when about sunrise a
+  great many Whales and other monsters of the sea, appeared. ',
   'example3':
-      'All these things, and a thousand like them, came to pass in and close upon the dear old year one thousand seven hundred and seventy-five.',
+      'All these things, and a thousand like them, came to pass in and close
+upon the dear old year one thousand seven hundred and seventy-five.',
      'example4':
-      'He was still hurriedly thinking all this through, unable to decide to get out of the bed, when the clock struck quarter to seven.'
+      'He was still hurriedly thinking all this through, unable to decide
+to get out of the bed, when the clock struck quarter to seven.'
 };
 
 function status(statusText) {
