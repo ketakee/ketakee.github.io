@@ -13,7 +13,7 @@ const examples = {
       'Scarcely had we proceeded two days on the sea, when about sunrise a great many Whales and other monsters of the sea, appeared. ',
   'example3':
       'All these things, and a thousand like them, came to pass in and close upon the dear old year one thousand seven hundred and seventy-five.',
-     'example4':'But Elizabeth had now recollected herself, and making a strong effort for it, was able to assure with tolerable firmness that the prospect of their relationship was highly grateful to her, and that she wished her all imaginable happiness.};
+     'example4':'But Elizabeth had now recollected herself, and making a strong effort for it, was able to assure with tolerable firmness that the prospect of their relationship was highly grateful to her, and that she wished her all imaginable happiness.'};
 
 function status(statusText) {
   console.log(statusText);
