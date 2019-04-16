@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'Then the swineherd brought them platters of cold meat, the remains from what they had eaten the day before, and he filled the bread baskets with bread as fast as he could.',
   'example2':
-      'Scarcely had we proceeded two days on the sea, when about sunrise a great many Whales and other monsters of the sea, appeared. ',
+      'But it very often happens that owing to the instantaneous, violent, convulsive running of the whale upon receiving the first iron, it becomes impossible for the harpooneer, however lightning-like in his movements, to pitch the second iron into him.',
   'example3':
       'All these things, and a thousand like them, came to pass in and close upon the dear old year one thousand seven hundred and seventy-five.',
      'example4':'But Elizabeth had now recollected herself, and making a strong effort for it, was able to assure with tolerable firmness that the prospect of their relationship was highly grateful to her, and that she wished her all imaginable happiness.'};
