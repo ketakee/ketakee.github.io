@@ -7,12 +7,6 @@ const HOSTED_URLS = {
       'model_js/metadata.json'
 };
 
-const examples = {
-  'example1':
-      'Then the swineherd brought them platters of cold meat, the remains from what they had eaten the day before, and he filled the bread baskets with bread as fast as he could.',
-  'example2':
-      'But it very often happens that owing to the instantaneous, violent, convulsive running of the whale upon receiving the first iron, it becomes impossible for the harpooneer, however lightning-like in his movements, to pitch the second iron into him.',
-}; 
 function status(statusText) {
   console.log(statusText);
   document.getElementById('status').textContent = statusText;
