@@ -1,4 +1,5 @@
 
+
 const HOSTED_URLS = {
   model:
       'model_js/model.json',
@@ -44,6 +45,9 @@ function doPredict(predict) {
   const result = predict(textField.value);
   console.log(result);
   score_string = "Class scores: ";
+  document.body.style.background = 'rgb(' + ((result.score[0]) *256) +',' + (result.score[1] *256) +',0)';
+//   ${result.score[0]}*256,${result.score[1]}*256,0)";
+//   document.body.style.background = 'rgb($result.score[0]*256,$result.score[1]*256,0)';
   for (var x in result.score) {
     score_string += x + " ->  " + result.score[x].toFixed(3) + ", "
   }
@@ -156,3 +160,4 @@ async function setup() {
 }
 
 setup();
+
